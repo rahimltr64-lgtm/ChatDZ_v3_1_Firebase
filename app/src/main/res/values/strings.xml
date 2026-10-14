@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatDZ 🇩🇿</string>
+    <string name="welcome_message">Welcome to ChatDZ</string>
+    <string name="message_hint">Type a message...</string>
+    <string name="send_button">Send</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="error_connection">Connection error. Please try again.</string>
+    <string name="error_send">Failed to send message. Please try again.</string>
+</resources>
