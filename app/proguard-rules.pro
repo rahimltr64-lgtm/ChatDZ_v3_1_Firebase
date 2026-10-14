@@ -1,0 +1,1 @@
+# ChatDZ ProGuard rules
